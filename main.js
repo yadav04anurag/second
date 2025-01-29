@@ -21,3 +21,9 @@ console.log("this is my first commit after installing the github")
 
 console.log("new code added for the newly created branch")
 console.log("bug fixed for the new branch")
+
+console.log(" initial changes in the pay ");
+
+console.log("secondary chges in the pay branch ")
+
+console.log("this is the final commit of the pay branch ")
