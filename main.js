@@ -19,3 +19,5 @@ console.log("this is the third commit of th upi ")
 console.log("this is my first commit after installing the github")
 
 
+console.log("new code added for the newly created branch")
+console.log("bug fixed for the new branch")
